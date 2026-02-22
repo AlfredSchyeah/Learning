@@ -1,0 +1,27 @@
+html {
+    font-size: 32px;
+}
+
+body {
+    font-size: 16px;
+}
+
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-size: 1rem;
+    color: #111;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: "JetBrains Mono";
+    font-size: 1.5em;
+}
+
+h3 {
+    font-family: "Marck Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
