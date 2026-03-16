@@ -37,13 +37,13 @@ console.log(person["age"]);
 for (const key in person) {
     console.log(key + ": " + person[key]);
 }
-const person = {
+const person1 = {
     firstName: "John",
     lastName: "Doe",
     age: 30
 };
 
-for (let key in person) {
+for (let key in person1) {
     console.log(key + ": " + person[key]);
 }
 
