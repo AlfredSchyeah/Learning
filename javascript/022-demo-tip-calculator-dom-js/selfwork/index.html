@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Счетчик чаевых</title>
+    <style>
+        h1 {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 50px;
+        }
+
+        div,
+        button,
+        label,
+        input {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 30px;
+            margin: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Счетчик чаевых</h1>
+    <div>
+        <label>Сумма чека</label>
+        <input id="sum" type="number" placeholder="Например: 1000"></br>
+        <label>Чаевые в процентах</label>
+        <input id="tips" type="number" placeholder="Например: 10"></br>
+        <label>Количество людей</label>
+        <input id="persons" type="number" placeholder="Например: 4"></br>
+        <button id="btn">Подсчет</button>
+        <div id="sumTips" type="text">Общий счет с чаевыми:</div>
+        <div id="totalTips" type="text">Чаевые:</div>
+        <div id="sumPerPerson" type="text">Счет с человека:</div>
+    </div>
+    <script src="./scripts.js"></script>
+</body>
+
+</html>
