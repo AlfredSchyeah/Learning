@@ -31,7 +31,6 @@ const HomePage = () => {
                 );
                 setLabels(temp)
             });
-
     });
 
     return (
