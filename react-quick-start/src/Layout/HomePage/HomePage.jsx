@@ -15,23 +15,45 @@ const HomePage = () => {
     //     { id: 3, cardTitle: "Заголовок 3", cardText: "Описание 3" },
     // ]
 
+    // useEffect(() => {
+    //     axios.get(baseUrl)
+    //         .then(res => {
+    //             const temp = [];
+    //             res.data.slice(0, 5).forEach(
+    //                 item => {
+    //                     temp.push({
+    //                         id: item.id,
+    //                         cardTitle: item.title.slice(0, 10),
+    //                         cardText: item.body,
+    //                     }
+    //                     )
+    //                 }
+    //             );
+    //             setLabels(temp)
+    //         });
+
+    // });
+
+    // То что я придумал
+    // useEffect(() => {
+    //     axios.get(baseUrl)
+    //         .then(res => {
+    //             const cardText = res.data.map(item => ({
+    //                 id: item.id,
+    //                 title: item.title,
+    //                 body: item.body,
+    //             }));
+    //             setLabels(cardText)
+    //         });
+    // });
+
     useEffect(() => {
         axios.get(baseUrl)
             .then(res => {
-                const temp = [];
-                res.data.slice(0, 5).forEach(
-                    item => {
-                        temp.push({
-                            id: item.id,
-                            cardTitle: item.title.slice(0, 10),
-                            cardText: item.body,
-                        }
-                        )
-                    }
-                );
-                setLabels(temp)
+                setLabels(res.data.slice(0, 5))
             });
     });
+
 
     return (
         <div className='container col-10'>
