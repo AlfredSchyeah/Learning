@@ -2,7 +2,7 @@
 
 Console.Write("Столица Испании? [Барселона], [Мадрид], [Париж] ");
 string Spain = Console.ReadLine();
-if (Spain.ToLowerInvariant() == "мадрид")
+if (Spain.ToLowerInvariant().Trim() == "мадрид")
 {
     Console.Write("Правильно!");
     sum += 1;
@@ -14,7 +14,7 @@ else
 
 Console.Write("Столица Италии? [Рим], [Флоренция], [Милан] ");
 string Italy = Console.ReadLine();
-if (Italy.ToLowerInvariant() == "рим")
+if (Italy.ToLowerInvariant().Trim() == "рим")
 {
     Console.Write("Правильно!");
     sum += 1;
@@ -26,7 +26,7 @@ else
 
 Console.Write("Столица Китая? [Пекин], [Шанхай], [Гонконг] ");
 string China = Console.ReadLine();
-if (China.ToLowerInvariant() == "пекин")
+if (China.ToLowerInvariant().Trim() == "пекин")
 {
     Console.Write("Правильно!");
     sum += 1;
