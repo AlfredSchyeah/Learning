@@ -1,0 +1,15 @@
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\OOP\001-PersonPrj\bin\Debug\net10.0\PersonPrj.exe
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\OOP\001-PersonPrj\bin\Debug\net10.0\PersonPrj.deps.json
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\OOP\001-PersonPrj\bin\Debug\net10.0\PersonPrj.runtimeconfig.json
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\OOP\001-PersonPrj\bin\Debug\net10.0\PersonPrj.dll
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\OOP\001-PersonPrj\bin\Debug\net10.0\PersonPrj.pdb
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\OOP\001-PersonPrj\obj\Debug\net10.0\PersonPrj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\OOP\001-PersonPrj\obj\Debug\net10.0\PersonPrj.AssemblyInfoInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\OOP\001-PersonPrj\obj\Debug\net10.0\PersonPrj.AssemblyInfo.cs
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\OOP\001-PersonPrj\obj\Debug\net10.0\PersonPrj.csproj.CoreCompileInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\OOP\001-PersonPrj\obj\Debug\net10.0\PersonPrj.sourcelink.json
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\OOP\001-PersonPrj\obj\Debug\net10.0\PersonPrj.dll
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\OOP\001-PersonPrj\obj\Debug\net10.0\refint\PersonPrj.dll
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\OOP\001-PersonPrj\obj\Debug\net10.0\PersonPrj.pdb
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\OOP\001-PersonPrj\obj\Debug\net10.0\PersonPrj.genruntimeconfig.cache
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\OOP\001-PersonPrj\obj\Debug\net10.0\ref\PersonPrj.dll
