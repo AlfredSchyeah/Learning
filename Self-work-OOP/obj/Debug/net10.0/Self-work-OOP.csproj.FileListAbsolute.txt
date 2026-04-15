@@ -1,0 +1,15 @@
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\Self-work-OOP\bin\Debug\net10.0\Self-work-OOP.exe
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\Self-work-OOP\bin\Debug\net10.0\Self-work-OOP.deps.json
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\Self-work-OOP\bin\Debug\net10.0\Self-work-OOP.runtimeconfig.json
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\Self-work-OOP\bin\Debug\net10.0\Self-work-OOP.dll
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\Self-work-OOP\bin\Debug\net10.0\Self-work-OOP.pdb
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\Self-work-OOP\obj\Debug\net10.0\Self-work-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\Self-work-OOP\obj\Debug\net10.0\Self-work-OOP.AssemblyInfoInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\Self-work-OOP\obj\Debug\net10.0\Self-work-OOP.AssemblyInfo.cs
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\Self-work-OOP\obj\Debug\net10.0\Self-work-OOP.csproj.CoreCompileInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\Self-work-OOP\obj\Debug\net10.0\Self-work-OOP.sourcelink.json
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\Self-work-OOP\obj\Debug\net10.0\Self-work-OOP.dll
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\Self-work-OOP\obj\Debug\net10.0\refint\Self-work-OOP.dll
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\Self-work-OOP\obj\Debug\net10.0\Self-work-OOP.pdb
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\Self-work-OOP\obj\Debug\net10.0\Self-work-OOP.genruntimeconfig.cache
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\Self-work-OOP\obj\Debug\net10.0\ref\Self-work-OOP.dll
