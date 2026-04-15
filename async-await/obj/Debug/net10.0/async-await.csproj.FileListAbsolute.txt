@@ -1,0 +1,15 @@
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\async-await\bin\Debug\net10.0\async-await.exe
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\async-await\bin\Debug\net10.0\async-await.deps.json
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\async-await\bin\Debug\net10.0\async-await.runtimeconfig.json
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\async-await\bin\Debug\net10.0\async-await.dll
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\async-await\bin\Debug\net10.0\async-await.pdb
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\async-await\obj\Debug\net10.0\async-await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\async-await\obj\Debug\net10.0\async-await.AssemblyInfoInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\async-await\obj\Debug\net10.0\async-await.AssemblyInfo.cs
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\async-await\obj\Debug\net10.0\async-await.csproj.CoreCompileInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\async-await\obj\Debug\net10.0\async-await.sourcelink.json
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\async-await\obj\Debug\net10.0\async-await.dll
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\async-await\obj\Debug\net10.0\refint\async-await.dll
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\async-await\obj\Debug\net10.0\async-await.pdb
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\async-await\obj\Debug\net10.0\async-await.genruntimeconfig.cache
+C:\Users\iAlfr\OneDrive\Документы\Codes\Learning\Learning\async-await\obj\Debug\net10.0\ref\async-await.dll
